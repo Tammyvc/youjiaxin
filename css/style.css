@@ -6,6 +6,38 @@ License: https://webthemez.com/license
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+.index_bgc {
+    background: url(http://www.ipjyd.com/images/index_bgc.jpg) no-repeat center;
+    height: 600px;
+    padding-top: 73px;
+}
+
+.indc_pic img {
+    display: block;
+    width: 100%;
+}
+
+img {
+    border: none;
+}
+
+ul {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
 body {
   background: #fff;
   color: #444;
