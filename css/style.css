@@ -19,6 +19,10 @@ License: https://webthemez.com/license
     width: 100%;
 }
 
+.indc_title p {
+    padding-top: 18px;
+}
+
 .indc_wb {
     background: #fff;
     padding: 38px 0;
