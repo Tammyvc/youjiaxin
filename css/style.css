@@ -19,8 +19,18 @@ License: https://webthemez.com/license
     width: 100%;
 }
 
+.indc_wb {
+    background: #fff;
+    padding: 38px 0;
+    text-align: center;
+    font-size: 0.9125rem;
+    color: #818181;
+}
+
 img {
     border: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
 }
 
 ul {
