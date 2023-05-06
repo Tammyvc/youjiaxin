@@ -600,7 +600,7 @@ a:hover, a:active {
 }
 
 .index_bgc {
-    background: url(img/index_bgc.jpg) no-repeat center;
+    background: url(../img/index_bgc.jpg) no-repeat center;
     height: 600px;
     padding-top: 73px;
 }
