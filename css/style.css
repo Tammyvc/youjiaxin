@@ -43,8 +43,15 @@ ul {
     padding: 0px;
 }
 
-
-
+.fqq_tel {
+    text-align: left;
+    background: #d90e0e;
+    color: #fff;
+    font-size: 1.125rem;
+    padding: 11px 0px 11px 10px;
+    border-bottom: 1px solid #eee;
+    border-top: none;
+}
 
 
 
