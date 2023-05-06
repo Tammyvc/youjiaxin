@@ -270,7 +270,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url(../img/intro-carousel/banner-bg.png) center bottom no-repeat;
     background-size: cover;
     padding: 200px 0 120px 0;
-	top:0px;
+	top:80px;
 }
 #hero .hero-banner {
     width: 50%;
