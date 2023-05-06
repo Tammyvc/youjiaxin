@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 #header #logo h1 a {
   line-height: 1;
   display: inline-block;
-  color: #ffffff;
+  color: #2196F3;
 }
 .is-sticky #header #logo h1 a{
   color: #2196F3;
