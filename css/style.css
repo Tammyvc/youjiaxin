@@ -43,6 +43,35 @@ ul {
     padding: 0px;
 }
 
+.fqq {
+    position: fixed;
+    right: 2px;
+    bottom: 50px;
+    width: 144px;
+    background: #fff;
+    z-index: 999;
+}
+
+.fqq_title {
+    width: auto;
+    background: #d90e0e;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 0;
+    color: #fff;
+}
+
+.fqq_tel p {
+    font-size: 0.875rem;
+}
+
+.fqq_img {
+    text-align: center;
+    padding: 11px 0;
+}
+
 .fqq_tel {
     text-align: left;
     background: #d90e0e;
