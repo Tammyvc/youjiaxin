@@ -1053,58 +1053,8 @@ a:hover, a:active {
     height: 300px;
 }
 
-header {
-    width: 100%;
-    border-top: 2px solid #d90e0e;
-    border-bottom: 1px solid #e5e5e5;
-    height: 59px;
-}
 
-header nav {
-    width: 98%;
-    max-width: 1400px;
-    margin: 0 auto;
-}
 
-header nav li {
-    float: left;
-    position: relative;
-}
-
-header nav li a {
-    display: block;
-    background: url(../images/fl_fg.png) no-repeat left;
-    position: relative;
-    z-index: 9;
-    padding: 0 30px;
-    font-size: 0.9125rem;
-    height: 59px;
-    line-height: 59px;
-}
-
-header nav li a.on {
-    background: none;
-}
-
-header nav li:hover a,header nav li.cur a {
-    color: #fff;
-}
-
-header nav li i {
-    background: #d90e0e;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0px;
-    left: 0;
-    transform: scaleX(0);
-    transition: 0.5s;
-}
-
-header nav li:hover i,header nav li.cur i {
-    transform: scaleX(1);
-    transition: 0.5s;
-}
 
 .main {
     background: #fff;
